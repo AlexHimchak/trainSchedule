@@ -9,13 +9,10 @@ In this project we create a train schedule application that incorporates Firebas
 
 - - -
 
-### Setup
-
-* We'll leave that up to you -- however you like. Just make sure you're using Firebase to store data, GitHub to backup your project, and GithHub Pages to host your finished site.
 
 ### Instructions
 
-* Make sure that your app suits this basic spec:
+* The app has these basic specs:
   * When adding trains, administrators should be able to submit the following:
     * Train Name
     * Destination 
